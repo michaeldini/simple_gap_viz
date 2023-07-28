@@ -6,5 +6,5 @@ pip install --upgrade pip
 
 pip install -r requirements.txt
 
-jupyter notebook
+python -m notebook
 
