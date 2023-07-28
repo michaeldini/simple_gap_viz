@@ -2,10 +2,13 @@
 a simple visualizer for recent stock data
 
 # Install and run
-
-On windows, run the setup_and_launch_win.bat file
-
-On Mac, run the setup_and_launch_mac.sh file
+1. Clone the repo to your local machine.
+2. Open a terminal/shell in the repo directory.
+3. Run the command: 
+Windows:
+ Double-click the file setup_and_launch_win.bat
+Mac: 
+`bash setup_and_launch_mac.sh`
 
 # Using the notebook
 
